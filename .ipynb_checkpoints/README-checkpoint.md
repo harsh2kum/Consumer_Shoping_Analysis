@@ -47,6 +47,7 @@ Version Control	Git, GitHub
 -README.md                                   # Project documentation
 -requirements.txt                            # Dependencies list
 -Business_Problem_Document.pdf               # Business Problem
+-customer_sql_query.sql                      # MySql Query 
 
 📈 Analysis Workflow
 
