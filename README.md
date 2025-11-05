@@ -1,4 +1,5 @@
 🛍️ Consumer Shopping Behavior Analysis
+
 📊 Project Overview
 
 This project analyzes consumer shopping behavior to uncover insights and patterns that influence purchasing decisions.
@@ -67,31 +68,22 @@ Revenue breakdowns by customer segment
 
 Product-level insights and ratings
 
-Business Question Analysis (Q1–Q15)
+Business Question Analysis 
+
 Includes:
-
 Revenue by gender
-
 Effect of discounts
-
 Shipping type impact
-
 Subscription behavior
-
 Top categories and products
-
 Repeat customer analysis
-
 Regional & seasonal trends
 
 Visualizations
-
 Bar charts, pie charts, heatmaps, and trend lines
-
 Insights presented using Matplotlib & Seaborn
 
 Insights & Recommendations
-
 Data-driven strategies for sales and marketing optimization
 
 📊 Example Visualizations
