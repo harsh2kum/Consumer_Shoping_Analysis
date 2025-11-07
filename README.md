@@ -136,15 +136,17 @@ Includes:
 ## 👨‍💻 Author
 
 ###  Harsh Kumar
+
 🎓 B.Tech – Computer Science & Data Science Engineering
+
 🏫 ABES Engineering College, Ghaziabad
-📍 Varanasi, India
+📍 India
 
 📧 Email: harshkumar04510@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/harshku
+🔗 LinkedIn: https://www.linkedin.com/in/harshku/
 
-🐙 GitHub: github.com/harsh2kum
+🐙 GitHub:  https://github.com/harsh2kum
 
 🏷️ License
 
