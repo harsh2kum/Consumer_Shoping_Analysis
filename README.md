@@ -142,14 +142,11 @@ Includes:
 
 📧 Email: harshkumar04510@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/harshku
+🔗 LinkedIn: (linkedin.com/in/harshku)
 
-🐙 GitHub: github.com/harsh2kum
+🐙 GitHub: (github.com/harsh2kum)
 
 🏷️ License
 
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
-⭐ Project Tags
-
-#DataAnalytics · #Python · #SQL · #PowerBI · #DataVisualization · #EcommerceAnalytics · #ConsumerBehavior · #RetailInsights
