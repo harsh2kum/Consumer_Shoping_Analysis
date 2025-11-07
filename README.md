@@ -1,12 +1,14 @@
-🛍️ Consumer Shopping Behavior Analysis
-📊 Project Overview
+# 🛍️ Consumer Shopping Behavior Analysis
+
+# 📊 Project Overview
 
 This project analyzes consumer shopping behavior to uncover insights and patterns that influence purchasing decisions.
+
 By applying Python-based data analysis techniques, it aims to help businesses understand customer preferences, product performance, and sales drivers.
 
 The analysis covers customer demographics, product categories, pricing trends, and discount effects, ultimately guiding data-driven business strategies.
 
-🚀 Objectives
+# 🚀 Objectives
 
 Analyze consumer demographics and spending behavior
 
@@ -18,7 +20,7 @@ Explore seasonal and regional trends
 
 Generate actionable insights for marketing and inventory optimization
 
-🧠 Key Insights
+# 🧠 Key Insights
 
 Female and young adult (26–35 years) customers contribute the most to revenue
 
@@ -32,24 +34,39 @@ Fashion and Electronics dominate the sales categories
 
 Sales peak during winter months (Nov–Dec)
 
-🧰 Tools & Technologies
-Category	Tools Used
-Programming	Python, SQL
-Data Analysis	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-Business Intelligence (BI) Tools	Power BI
-IDE / Environment	Jupyter Notebook
-Dataset	customer_shopping_behavior.csv
-Version Control	Git, GitHub
-📁 Project Structure
--consumer_shopping_behavior_analysis.ipynb   # Main analysis notebook
--customer_shopping_behavior.csv              # Dataset
--README.md                                   # Project documentation
--requirements.txt                            # Dependencies list
--Business_Problem_Document.pdf               # Business Problem
--customer_sql_query.sql                      # MySql Query 
+# 🧰 Tools & Technologies
 
-📈 Analysis Workflow
+Category	Tools Used
+
+Programming	Python, SQL
+
+Data Analysis	Pandas, NumPy
+
+Visualization	Matplotlib, Seaborn
+
+Business Intelligence (BI) Tools	Power BI
+
+IDE / Environment	Jupyter Notebook
+
+Dataset	customer_shopping_behavior.csv
+
+Version Control	Git, GitHub
+
+# 📁 Project Structure
+
+-consumer_shopping_behavior_analysis.ipynb          # Main analysis notebook
+
+-customer_shopping_behavior.csv                     # Dataset
+
+-README.md                                          # Project documentation
+
+-requirements.txt                                   # Dependencies list
+
+-Business_Problem_Document.pdf                      # Business Problem
+
+-customer_sql_query.sql                             # MySql Query 
+
+# 📈 Analysis Workflow
 
 Data Loading & Cleaning
 
@@ -67,8 +84,9 @@ Revenue breakdowns by customer segment
 
 Product-level insights and ratings
 
-Business Question Analysis (Q1–Q15)
-Includes:
+Business Question Analysis 
+
+### Includes:
 
 Revenue by gender
 
@@ -84,7 +102,7 @@ Repeat customer analysis
 
 Regional & seasonal trends
 
-Visualizations
+### Visualizations
 
 Bar charts, pie charts, heatmaps, and trend lines
 
@@ -94,7 +112,7 @@ Insights & Recommendations
 
 Data-driven strategies for sales and marketing optimization
 
-📊 Example Visualizations
+# 📊 Example Visualizations
 
 Revenue by Gender
 
@@ -128,23 +146,32 @@ Create a Power BI or Streamlit dashboard for real-time tracking
 
 Explore sentiment analysis on product reviews
 
-⚙️ How to Run the Project
-# Clone this repository
+## ⚙️ How to Run the Project
+
+### Clone this repository
 git clone https://github.com/harsh2kum/Consumer_Shoping_Analysis.git
+
 cd Consumer_Shoping_Analysis
 
-# Install dependencies
+### Install dependencies
+
 pip install -r requirements.txt
 
-# Run Jupyter Notebook
+### Run Jupyter Notebook
+
 jupyter notebook consumer_shopping_behavior_analysis.ipynb
 
-🧑‍💻 Author
-Harsh Kumar
+# 🧑‍💻 Author
+
+## Harsh Kumar
+
 🎓 B.Tech – Computer Science & Data Science Engineering
 📍 ABES Engineering College, Ghaziabad
+
 📧 [harshkumar04510@gmail.com]
+
 🔗 LinkedIn Profile - https://www.linkedin.com/in/harshku/ 
 
-🏷️ License
+## 🏷️ License
+
 This project is licensed under the MIT License – you’re free to use, modify, and distribute with attribution.
