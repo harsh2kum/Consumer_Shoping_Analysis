@@ -142,9 +142,9 @@ Includes:
 
 📧 Email: harshkumar04510@gmail.com
 
-🔗 LinkedIn: (linkedin.com/in/harshku)
+🔗 LinkedIn: linkedin.com/in/harshku
 
-🐙 GitHub: (github.com/harsh2kum)
+🐙 GitHub: github.com/harsh2kum
 
 🏷️ License
 
