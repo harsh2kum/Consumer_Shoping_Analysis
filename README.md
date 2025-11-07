@@ -1,177 +1,155 @@
-# 🛍️ Consumer Shopping Behavior Analysis
+# 🛍️ Consumer Shopping Behavior Analysis  
 
-# 📊 Project Overview
+### 💼 Domain: Retail & E-commerce | 🧩 Type: Exploratory Data Analytics | 📈 Tools: Python · SQL · Power BI  
 
-This project analyzes consumer shopping behavior to uncover insights and patterns that influence purchasing decisions.
+---
 
-By applying Python-based data analysis techniques, it aims to help businesses understand customer preferences, product performance, and sales drivers.
+## 📊 Project Overview  
 
-The analysis covers customer demographics, product categories, pricing trends, and discount effects, ultimately guiding data-driven business strategies.
+This project analyzes **consumer shopping behavior** to uncover key insights and trends that influence **purchase decisions**.  
 
-# 🚀 Objectives
+By applying **Python-based data analytics, SQL queries, and Power BI visualizations**, it helps businesses understand **customer preferences, product performance, and sales drivers** — enabling smarter **marketing and inventory strategies**.  
 
-Analyze consumer demographics and spending behavior
+The analysis explores:
+- 👥 Customer demographics & spending behavior  
+- 💳 Product category performance  
+- 💰 Discount & subscription impacts  
+- 🚚 Shipping preferences  
+- 🕒 Seasonal and regional purchase trends  
 
-Identify top-performing products and key revenue segments
+---
 
-Measure the impact of discounts, subscriptions, and shipping choices on sales
+## 🎯 Objectives  
 
-Explore seasonal and regional trends
+✔️ Analyze consumer demographics and purchasing patterns  
+✔️ Identify top-performing products and revenue-driving categories  
+✔️ Evaluate the impact of **discounts, shipping type, and subscriptions** on sales  
+✔️ Explore **seasonal trends** and customer loyalty segmentation  
+✔️ Deliver **data-driven recommendations** for business growth  
 
-Generate actionable insights for marketing and inventory optimization
+---
 
-# 🧠 Key Insights
+## 🧠 Key Insights  
 
-Female and young adult (26–35 years) customers contribute the most to revenue
+| Insight | Observation |
+|----------|--------------|
+| 👩‍🦰 Gender & Age | Female customers (26–35 yrs) contribute the most revenue |
+| 💸 Subscription | Subscribed customers spend **~25% more** than non-subscribers |
+| 🏷️ Discounts | Discount campaigns attract new & high-value buyers |
+| 🚀 Shipping | Express shipping users make higher-value purchases |
+| 🛒 Categories | Fashion and Electronics dominate total sales |
+| ❄️ Seasonal Trend | Sales peak during **Nov–Dec (holiday season)** |
 
-Subscribed customers spend on average 25% more than non-subscribers
+---
 
-Discount campaigns attract both new and high-value buyers
+## 🧰 Tools & Technologies  
 
-Express shipping users tend to make higher-value purchases
+| Category | Tools Used |
+|-----------|------------|
+| Programming | Python, SQL |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Business Intelligence | Power BI |
+| IDE / Environment | Jupyter Notebook |
+| Dataset | `customer_shopping_behavior.csv` |
+| Version Control | Git, GitHub |
 
-Fashion and Electronics dominate the sales categories
+---
 
-Sales peak during winter months (Nov–Dec)
+## 📁 Project Structure  
 
-# 🧰 Tools & Technologies
+📦 Consumer_Shopping_Behavior_Analysis
+│
+├── consumer_shopping_behavior_analysis.ipynb # Main Jupyter Notebook
+├── customer_shopping_behavior.csv # Dataset
+├── README.md # Project documentation
+├── requirements.txt # Dependencies list
+├── Business_Problem_Document.pdf # Problem statement
+└── customer_sql_query.sql # SQL queries for analysis
 
-Category	Tools Used
 
-Programming	Python, SQL
+---
 
-Data Analysis	Pandas, NumPy
+## ⚙️ Analysis Workflow  
 
-Visualization	Matplotlib, Seaborn
+### 🧹 Data Preparation  
+- Data loading, cleaning, and formatting  
+- Handling missing values  
+- Converting Yes/No → Boolean  
+- Standardizing column names  
 
-Business Intelligence (BI) Tools	Power BI
+### 🔍 Exploratory Data Analysis (EDA)  
+- Gender, age, and category distribution  
+- Revenue breakdown by customer segment  
+- Product-level insights & average review ratings  
 
-IDE / Environment	Jupyter Notebook
+### 🧮 Business Question Analysis  
+Includes:
+- Revenue by gender and category  
+- Effect of discounts on spending  
+- Shipping type and purchase behavior  
+- Subscription analysis  
+- Top categories and products  
+- Repeat customer segmentation  
+- Regional & seasonal trends  
 
-Dataset	customer_shopping_behavior.csv
+### 📊 Visualizations  
+- Bar charts, pie charts, heatmaps, trend lines  
+- Created using **Matplotlib** and **Seaborn**  
+- **Power BI dashboard** for interactive visualization  
 
-Version Control	Git, GitHub
+---
 
-# 📁 Project Structure
+## 💡 Insights & Recommendations  
 
--consumer_shopping_behavior_analysis.ipynb          # Main analysis notebook
+| Area | Recommendation |
+|-------|----------------|
+| Marketing | Focus on **female subscribers (26–35 yrs)** |
+| Shipping | Encourage **Express Shipping** for premium orders |
+| Discounts | Run **targeted discount campaigns** during holidays |
+| Loyalty | Strengthen loyalty programs for repeat customers |
+| Inventory | Increase stock in **Fashion** and **Electronics** |
 
--customer_shopping_behavior.csv                     # Dataset
+---
 
--README.md                                          # Project documentation
+## 🖼️ Example Visualizations  
 
--requirements.txt                                   # Dependencies list
+- **Revenue by Gender**  
+- **Top 5 Highest Rated Products**  
+- **Customer Segments: New, Returning, Loyal**  
+- **Revenue by Age Group**  
+- **Top Locations by Revenue**
 
--Business_Problem_Document.pdf                      # Business Problem
+*(Attach visuals/screenshots of Power BI dashboard and key Python plots)*  
 
--customer_sql_query.sql                             # MySql Query 
+---
 
-# 📈 Analysis Workflow
+## 🚀 Future Work  
 
-Data Loading & Cleaning
+- 🧮 Build predictive models for **purchase probability**  
+- 💰 Implement **Customer Lifetime Value (CLV)** estimation  
+- 📊 Create a **Streamlit / Power BI dashboard** for real-time analytics  
+- 💬 Perform **sentiment analysis** on product reviews  
 
-Handle missing values
+---
 
-Convert Yes/No → Boolean
+## 👨‍💻 Author
 
-Standardize column names
-
-Exploratory Data Analysis (EDA)
-
-Gender, age, and category distribution
-
-Revenue breakdowns by customer segment
-
-Product-level insights and ratings
-
-Business Question Analysis 
-
-### Includes:
-
-Revenue by gender
-
-Effect of discounts
-
-Shipping type impact
-
-Subscription behavior
-
-Top categories and products
-
-Repeat customer analysis
-
-Regional & seasonal trends
-
-### Visualizations
-
-Bar charts, pie charts, heatmaps, and trend lines
-
-Insights presented using Matplotlib & Seaborn
-
-Insights & Recommendations
-
-Data-driven strategies for sales and marketing optimization
-
-# 📊 Example Visualizations
-
-Revenue by Gender
-
-Top 5 Highest Rated Products
-
-Customer Segments (New, Returning, Loyal)
-
-Revenue by Age Group
-
-Top Locations by Revenue
-
-💡 Recommendations
-
-Focus marketing on subscribed female customers aged 26–35
-
-Encourage Express Shipping for high-value orders
-
-Plan discount campaigns around holiday seasons
-
-Strengthen loyalty programs to increase repeat purchases
-
-Invest in Fashion and Electronics inventory
-
-📜 Future Work
-
-Build Predictive Models for purchase probability
-
-Implement Customer Lifetime Value (CLV) estimation
-
-Create a Power BI or Streamlit dashboard for real-time tracking
-
-Explore sentiment analysis on product reviews
-
-## ⚙️ How to Run the Project
-
-### Clone this repository
-git clone https://github.com/harsh2kum/Consumer_Shoping_Analysis.git
-
-cd Consumer_Shoping_Analysis
-
-### Install dependencies
-
-pip install -r requirements.txt
-
-### Run Jupyter Notebook
-
-jupyter notebook consumer_shopping_behavior_analysis.ipynb
-
-# 🧑‍💻 Author
-
-## Harsh Kumar
-
+###  Harsh Kumar
 🎓 B.Tech – Computer Science & Data Science Engineering
-📍 ABES Engineering College, Ghaziabad
+🏫 ABES Engineering College, Ghaziabad
+📍 Varanasi, India
 
-📧 [harshkumar04510@gmail.com]
+📧 Email: harshkumar04510@gmail.com
 
-🔗 LinkedIn Profile - https://www.linkedin.com/in/harshku/ 
+🔗 LinkedIn: linkedin.com/in/harshku
 
-## 🏷️ License
+🐙 GitHub: github.com/harsh2kum
 
-This project is licensed under the MIT License – you’re free to use, modify, and distribute with attribution.
+🏷️ License
+
+This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
+
+⭐ Project Tags
+
+#DataAnalytics · #Python · #SQL · #PowerBI · #DataVisualization · #EcommerceAnalytics · #ConsumerBehavior · #RetailInsights
